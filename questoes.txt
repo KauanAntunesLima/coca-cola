@@ -1,0 +1,74 @@
+O que é um repositório no Git e qual a sua importância?
+
+repertorio Git é um local onde fica armazenado projetos, e ele é muito importante pois nos permite fazer rastreamento de alteraçÕes e reverter mudanças se necessário
+
+Qual a função do Git Bash?
+
+Git Bash é um terminal de linha de comando que fornece uma interface para usar o Git no sistema Windows. Ele simula um terminal Unix, permitindo que você execute comandos Git
+
+O que faz o comando git add e qual a diferença entre git add <arquivo> e git add .?
+
+O comando git add é usado para adicionar alterações ao índice do git.
+git add <arquivo> adiciona um arquivo específico para a área de staging.
+git add . adiciona todos os arquivos modificados no diretório atual e subdiretórios para a área de staging.
+
+Por que utilizamos o ponto (.) no comando git add .?
+
+O ponto (.) representa o diretório atual, e ao usá-lo em git add ., você está pedindo ao Git para adicionar todos os arquivos modificados dentro do diretório atual e seus subdiretórios para a área de staging.
+
+Explique o comando git commit e por que é importante criar uma mensagem descritiva.
+
+
+
+Qual a função do comando git push?
+
+
+
+Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
+
+
+
+Explique a função das tags HTML e como elas estruturam uma página.
+
+
+
+O que são atributos em uma tag HTML e qual a sua função?
+
+
+
+O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+
+
+
+O que é o box-sizing no CSS e por que usamos ele no reset inicial?
+
+
+
+Por que é importante utilizar tags semânticas no HTML?
+
+
+
+O que são media queries no CSS e qual a sua função?
+
+
+
+Qual a função do GitHub Pages?
+
+
+
+
+O que é o Flexbox no CSS e para que ele é utilizado?
+
+
+
+
+Qual a diferença entre justify-content e align-items em um container Flexbox?
+
+
+
+
+Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
+
+
+
+Explique a diferença entre flex-direction: column; e flex-direction: row;.
