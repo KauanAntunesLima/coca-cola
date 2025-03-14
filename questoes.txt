@@ -18,31 +18,35 @@ O ponto (.) representa o diretório atual, e ao usá-lo em git add ., você est�
 
 Explique o comando git commit e por que é importante criar uma mensagem descritiva.
 
-
+O comando git commit é usado para salvar as alterações que você fez no código, ele cria um ponto de verificação que você pode voltar no futuro, caso precise.
+Quando fazemos um commit, é importante adicionar uma mensagem descritiva que explique o que foi mudado, isso facilita entender o que foi feito em cada commit
 
 Qual a função do comando git push?
 
-
+O comando git push é usado para enviar as alterações que você fez no seu repositório local para um repositório remoto como o GitHub que usamos em aula.
 
 Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
 
-
+Fazer commits frequentes é importante porque ajuda a manter o controle sobre o que foi feito no código, tornando mais fácil identificar problemas e desfazer mudanças.
 
 Explique a função das tags HTML e como elas estruturam uma página.
 
-
+As tags HTML são usadas para marcar e estruturar o conteúdo de uma página web. Elas informam ao navegador como exibir o conteúdo,
+ como texto, imagens, links, tabelas, entre outros. Cada tag tem uma função específica, por exemplo, a tag <h1> é usada para títulos, <p> para parágrafos e <img> para imagens. 
 
 O que são atributos em uma tag HTML e qual a sua função?
 
-
+Atributos em uma tag HTML são informações adicionais que modificam o comportamento ou a aparência do conteúdo dentro da tag.
+ Eles são colocados dentro da tag de abertura, geralmente no formato nome="valor". Por exemplo, a tag <img src="imagem.jpg" alt="Descrição da imagem">
 
 O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
 
-
+Emmet é uma ferramenta que facilita a escrita de código HTML e CSS, permitindo criar estruturas de forma mais rápida. 
+Com ele, você pode digitar abreviações e o Emmet as expande automaticamente para tags HTML completas.
 
 O que é o box-sizing no CSS e por que usamos ele no reset inicial?
 
-
+O box-sizing no CSS define como o tamanho de um elemento é calculado
 
 Por que é importante utilizar tags semânticas no HTML?
 
